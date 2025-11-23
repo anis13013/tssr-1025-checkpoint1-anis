@@ -1,4 +1,4 @@
-## DÉBUT DU SCRIPT :
+## DÉBUT DU SCRIPT : SEULEMENT FICHIER MARKDOWN FAIS EN DEHORS DU TEMPS. 
 
 Afficher un message de bienvenue
 
